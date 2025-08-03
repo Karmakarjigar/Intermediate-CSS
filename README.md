@@ -2,9 +2,9 @@
 
 1. Box Model
 {
-    Height
-    Widht
-    Border
+    1. Height
+    2. Width
+    3. Border
     {
         border-width
         border-style
@@ -15,14 +15,14 @@
         border-Bottom
         Border-radius
     }
-    Padding
+    4. Padding
     {
         Padding-left
         Padding-right
         Padding-top
         Padding-Bottom
     }
-    Margin
+    5. Margin
 }
 2. Practice Question 1(Make traffic signal)
 3. Display
