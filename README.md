@@ -26,3 +26,5 @@
 }
 2. Practice Question 1(Make traffic signal)
 3. Display
+4. css assignment
+5. Alpha channel and Opacity
