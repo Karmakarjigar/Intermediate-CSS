@@ -40,3 +40,12 @@
 }
 12. Practice (FlexBox)
 13. Practice (FlexBox)
+14. Grid
+{
+    grid template
+    grid template repeat
+    grid gap
+    grid column
+    grid row
+    grid properties
+}
